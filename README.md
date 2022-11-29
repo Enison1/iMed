@@ -1,2 +1,2 @@
 # iMed
-iMed - Sistema de gerenciamento  clinico
+iMed - Sistema de gerenciamento  clínico
